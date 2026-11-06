@@ -61,5 +61,3 @@ The model code is in `energy_model/` and the input data (demand, supply, technol
 All multipliers are relative to the baseline assumptions. A multiplier of 1
 leaves the corresponding parameter unchanged. CAPEX refers to the investment
 cost of large-scale heat pumps.
-
-`OLD/` has earlier versions of the model.
